@@ -1080,3 +1080,57 @@ footer {
     padding: 0px;
     margin-top: 60px;
 }
+
+.banner-page2 {
+    padding: 50px;
+    background: #e1e1e1;
+}
+
+.banner-page2 h1 {
+    font-weight: 900;
+    font-size: 50px;
+}
+
+.banner-page2 p span {
+    color: #e8b6b4;
+}
+
+
+/* start breadcrumb */
+
+.breadcrumb {
+    background: none;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.breadcrumb ul {
+    width: 100%;
+    padding: 10px 0;
+    border-bottom: 1px solid #ebebeb;
+    border-radius: 0;
+    font-size: 16px;
+}
+
+.breadcrumb ul li {
+    float: left;
+    padding: 5px;
+    color: #B2B2B2;
+}
+
+.breadcrumb a {
+    color: #252525;
+}
+
+.breadcrumb .icon-pre:before {
+    content: " / ";
+}
+
+
+/* end breadcrumb */
+
+
+/* start container left */
+
+
+/* end container left */
