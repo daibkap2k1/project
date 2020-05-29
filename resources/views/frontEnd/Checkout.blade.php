@@ -6,4 +6,7 @@
     <h3>test</h3>
     </div>
     <h4>test 2</h4>
+    <div class="casa">
+        sadasdasdasdasdas
+    </div>
 @endsection
