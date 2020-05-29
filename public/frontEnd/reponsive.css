@@ -1,0 +1,202 @@
+@media screen and (max-width: 1023px) {
+    /* header  */
+    header {
+        display: none !important;
+    }
+    nav {
+        padding: 20px 0 10px 0;
+    }
+    .logo-nav {
+        margin-right: 0 !important;
+    }
+    .wp-container {
+        text-align: center;
+    }
+    .menu {
+        display: none !important;
+    }
+    .search-header {
+        padding: 15px 10px;
+    }
+    .search-header input {
+        height: calc(1.5em + .75rem + 10px) !important;
+    }
+    .search-header .form-control:focus {
+        border-color: #ced4da !important;
+        box-shadow: none !important;
+    }
+    .search-header button {
+        background: #e7ab3c;
+    }
+    .list-icon-nav {
+        display: none !important;
+    }
+    .search-header {
+        display: block;
+    }
+    /* end header  */
+    /* menu mobi  */
+    .icon-menu-mobi {
+        display: flex !important;
+    }
+    .icon-bar {
+        display: inline-block !important;
+    }
+    .icon-menu-mobi a span {
+        display: inline-block !important;
+    }
+    .mobile-nav {
+        display: block;
+    }
+    /* end menu mobi */
+    /* footer  */
+    .footer-top {
+        padding: 20px 0;
+    }
+    .logo-footer {
+        padding: 10px 0;
+    }
+    #search {
+        text-align: center;
+        padding: 0 10px;
+    }
+    #search label {
+        display: block !important;
+        width: 100%;
+        padding: 0;
+    }
+    .icon-footer {
+        display: flex !important;
+        padding-top: 20px;
+        padding-left: 0;
+        float: none !important;
+        justify-content: center;
+    }
+    .ft-title {
+        margin-bottom: 10px;
+        font-size: 20px;
+    }
+    .ft-right,
+    .fc-left {
+        padding: 0;
+    }
+    .footer-content>div>div {
+        margin-bottom: 20px;
+    }
+    .cr-link {
+        display: none !important;
+    }
+    .footer-content {
+        padding: 20px 0;
+    }
+    /* end footer  */
+    #banner .buh-item {
+        height: 400px !important;
+        padding-top: 50px !important;
+    }
+    .content-home-about {
+        padding-top: 20px;
+        width: auto;
+        padding-left: 0;
+        text-align: center;
+    }
+    .about-home {
+        padding-top: 20px;
+    }
+    /* .about-home>div:last-child {
+        display: none;
+    } */
+    .avtar-video {
+        display: none;
+    }
+    .list-serive-home {
+        padding-top: 20px;
+        padding-bottom: 10px;
+        display: inline-block;
+    }
+    .wp-box {
+        padding: 30px 0;
+    }
+    .bp-title h1 {
+        font-size: 26px;
+    }
+    .bp-title {
+        padding-bottom: 15px;
+    }
+    .wp-container {
+        padding: 0 5px!important;
+    }
+    body {
+        overflow-x: hidden;
+    }
+    .img-home-about {
+        display: none;
+    }
+    #owl-text {
+        padding-left: 0px;
+    }
+    .controller-owlt {
+        justify-content: center;
+    }
+    ..wp-ah {
+        margin-top: 30px !important;
+    }
+}
+
+@media screen and (max-width:430px) {
+    .buh-item h1 {
+        font-size: 65px;
+    }
+    .top-ct {
+        justify-content: center !important;
+    }
+    .tct-left {
+        padding: 0 19px;
+    }
+}
+
+@media screen and (max-width:335px) {
+    .content-home-about h1 {
+        font-size: 30px;
+    }
+    .list-serive-home div ul>li a {
+        font-size: 20px;
+        padding: 15px 0;
+    }
+}
+
+@media screen and (min-width:1024px) and (max-width:1300px) {
+    .content-home-about {
+        padding-top: 30px !important;
+        width: auto !important;
+        padding-left: 5px !important;
+    }
+}
+
+@media screen and (max-width: 1439px) {
+    .wp-container {
+        padding: 0 10px;
+    }
+    ul.th-left {
+        margin-right: 114px;
+    }
+    div.th-center {
+        margin-right: 114px;
+    }
+    ul.menu li a {
+        padding: 12px 13px;
+    }
+    .logo-nav {
+        display: inline-block;
+        margin-right: 60px;
+    }
+    ul.menu {
+        margin-right: 100px;
+    }
+    nav {
+        padding: 26px 0 26px 0;
+    }
+    #search label {
+        line-height: 36px;
+    }
+}
